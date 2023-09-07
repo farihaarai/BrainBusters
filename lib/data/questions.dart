@@ -103,4 +103,14 @@ var questions = [
       'False()',
     ],
   ),
+  QuizQuestion(
+    'What is the purpose of the runApp() function in flutter?',
+    [
+      'To start the flutter application()',
+      'To define the layout of flutter interface()',
+      'To handle user input()',
+      'To manage the state of the application()',
+    ],
+  ),
+  //Here you can add as many questions you want
 ];
