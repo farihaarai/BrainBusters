@@ -26,7 +26,7 @@ class StartPage extends StatelessWidget {
         // ),
         const SizedBox(height: 30),
         Text(
-          'Learn Flutter the fun way!',
+          'Want to test your knowlegde! Take a Quizzz!! ',
           style: GoogleFonts.lato(fontSize: 20, color: Colors.white),
         ),
         const SizedBox(height: 30),

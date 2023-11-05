@@ -71,46 +71,46 @@ var questions = [
       'False()',
     ],
   ),
-  QuizQuestion(
-    'pubspec.yaml file does not contain?',
-    [
-      'Project Language()',
-      'Project Dependencies()',
-      'Project General Settings()',
-      'Project assets()',
-    ],
-  ),
-  QuizQuestion(
-    'Which of the following widget is used for layout?',
-    [
-      'Column()',
-      'Text()',
-      'Expanded()',
-      'Inkwell()',
-    ],
-  ),
-  QuizQuestion(
-    '___________ Component allow us to specify the distance between widgets on the screen?',
-    [
-      'SizedBox()',
-      'AppBar()',
-    ],
-  ),
-  QuizQuestion(
-    'Everything is a widget in flutter.True or False?',
-    [
-      'True()',
-      'False()',
-    ],
-  ),
-  QuizQuestion(
-    'What is the purpose of the runApp() function in flutter?',
-    [
-      'To start the flutter application()',
-      'To define the layout of flutter interface()',
-      'To handle user input()',
-      'To manage the state of the application()',
-    ],
-  ),
+  // QuizQuestion(
+  //   'pubspec.yaml file does not contain?',
+  //   [
+  //     'Project Language()',
+  //     'Project Dependencies()',
+  //     'Project General Settings()',
+  //     'Project assets()',
+  //   ],
+  // ),
+  // QuizQuestion(
+  //   'Which of the following widget is used for layout?',
+  //   [
+  //     'Column()',
+  //     'Text()',
+  //     'Expanded()',
+  //     'Inkwell()',
+  //   ],
+  // ),
+  // QuizQuestion(
+  //   '___________ Component allow us to specify the distance between widgets on the screen?',
+  //   [
+  //     'SizedBox()',
+  //     'AppBar()',
+  //   ],
+  // ),
+  // QuizQuestion(
+  //   'Everything is a widget in flutter.True or False?',
+  //   [
+  //     'True()',
+  //     'False()',
+  //   ],
+  // ),
+  // QuizQuestion(
+  //   'What is the purpose of the runApp() function in flutter?',
+  //   [
+  //     'To start the flutter application()',
+  //     'To define the layout of flutter interface()',
+  //     'To handle user input()',
+  //     'To manage the state of the application()',
+  //   ],
+  // ),
   //Here you can add as many questions you want
 ];
